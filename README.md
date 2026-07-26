@@ -17,7 +17,7 @@ I work on large-scale consumer applications across identity, onboarding, securit
 - [IEEE Senior Member](https://ieee-collabratec.ieee.org/app/p/SerhiiBykov1191631)
 - [ADPList mentor](https://adplist.org/mentors/serhii-bykov)
 - Hackathon judge and mentor
-  - [NGN Hacksn 2026](https://ngn-hacks-2026.devpost.com)
+  - [NGN Hacks 2026](https://ngn-hacks-2026.devpost.com)
   - [Hacks For Humanity, Summer 2026](https://hack-for-humanity-summer-26.devpost.com) 
 
 ## Selected Links
