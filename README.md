@@ -22,6 +22,6 @@ I work on large-scale consumer applications across identity, onboarding, securit
 
 ## Selected Links
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn](https://www.linkedin.com/in/serhii-bykov/)
 - [Website + Blog](https://esphynox.me)
 - [Email](mailto:esphynox@gmail.com)
